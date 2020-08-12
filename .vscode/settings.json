@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1E303E",
+    "titleBar.activeBackground": "#2A4357",
+    "titleBar.activeForeground": "#F8FAFC"
+  },
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2
+}
