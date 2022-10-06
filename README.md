@@ -1,5 +1,5 @@
 <h1>   
-  <img src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/others/wave.gif" width="30" height="30" /> &nbsp; 
+  <img src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/others/wave.gif" width="30" height="30" />
   Hey, great seeing you!
 </h1>
 
@@ -44,6 +44,8 @@ I was graduated with a Master's degree "**Web Development and Information System
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=rounded-square&logo=mongodb&logoColor=white" /> 
 </p>
 
+&nbsp;
+
 ## Toolbox
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-0165b8?style=rounded-square&logo=visual-studio-code&logoColor=white" /> 
@@ -62,34 +64,87 @@ I was graduated with a Master's degree "**Web Development and Information System
 
 ## Connect with me 
 
-<a href="mailto:sebastien.ouallet@gmail.com " alt="Mail Icon">
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/mail-send.svg#gh-dart-mode-only"/>
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/mail-send.svg#gh-light-mode-only"/>
+<a href="mailto:sebastien.ouallet@gmail.com" alt="Mail Link">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/mail-send.svg">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/mail-send.svg">
+    <img 
+      width="24px" height="24px" alt="Mail Icon" 
+      src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/mail-send.svg">
+  </picture>
 </a>
 &nbsp;
-<a href="https://sebastien.ouallet.fr" alt="Website Icon">
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/globe.svg#gh-dart-mode-only"/>
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/globe.svg#gh-light-mode-only"/>
+<a href="https://sebastien.ouallet.fr" alt="Website Link">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/globe.svg">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/globe.svg">
+    <img 
+      width="24px" height="24px" alt="Website Icon" 
+      src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/globe.svg">
+  </picture>
+&nbsp;
+<a href="" alt="Twitch Link">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/twitch.svg">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/twitch.svg">
+    <img 
+      width="24px" height="24px" alt="Twitch Icon" 
+      src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/twitch.svg">
+  </picture>
 </a>
 &nbsp;
-<a href="" alt="Twitch Icon">
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/twitch.svg#gh-dart-mode-only"/>
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/twitch.svg#gh-light-mode-only"/>
+<a href="https://www.linkedin.com/in/sebastien-ouallet/" alt="LinkedIn Link">
+    <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/linkedin.svg">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/linkedin.svg">
+    <img 
+      width="24px" height="24px" alt="LinkedIn Icon" 
+      src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/linkedin.svg">
+  </picture>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sebastien-ouallet/" alt="LinkedIn Icon">
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/linkedin.svg#gh-dart-mode-only"/>
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/linkedin.svg#gh-light-mode-only"/>
+<a href="" alt="Malt Link">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/malt.svg">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/malt.svg">
+    <img 
+      width="24px" height="24px" alt="Malt Icon" 
+      src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/malt.svg">
+  </picture>
 </a>
 &nbsp;
-<a href="" alt="Malt Icon">
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/malt.svg#gh-dart-mode-only"/>
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/malt.svg#gh-light-mode-only"/>
-</a>
-&nbsp;
-<a href="" alt="FreelanceRepublik Icon">
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/freelance-republik.svg#gh-dart-mode-only"/>
-  <img width="24px" height="24px" src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/freelance-republik.svg#gh-light-mode-only"/>
+<a href="" alt="FreelanceRepublik Link">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/freelance-republik.svg">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/dark/freelance-republik.svg">
+    <img 
+      width="24px" height="24px" alt="FreelanceRepublik Icon" 
+      src="https://raw.githubusercontent.com/Souallet/Souallet/master/assets/socials/light/freelance-republik.svg">
+  </picture>
 </a>
 
 &nbsp;
